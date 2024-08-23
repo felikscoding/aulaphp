@@ -15,7 +15,7 @@
     </p> 
 
     <table>
-    <form action="dadosimc.php" method="post">
+    <form action="imcdados.php" method="post">
         <tr>
             <td><label for="peso">Digite seu peso:</label></td>
             <td><input type="text" name="peso" class="peso" value="<?php echo (isset($_GET["peso"])?$_GET["peso"]:"");?>"></td>
