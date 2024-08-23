@@ -9,7 +9,7 @@
 <body>
 
 
-    <form action="recebe-aula08.php" method="post">
+    <form action="recebeaula08.php" method="post">
         <label for="nome">Nome: </label><br>
         <input type="text" name="nome"><br>
         <label for="sobrenome">Sobrenome: </label><br>
